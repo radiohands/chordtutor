@@ -13,8 +13,8 @@ Typing program for learning chording for the artsey.io layout. https://artsey.io
 ------------
 ## How to install:
 The program uses python along with they "pygame" library. You should be able to run this on any OS that supports python.
-1. Install  Python 3 - https://www.python.org/downloads/
-2. Make sure it is able to run from the command line and add the "pygame" library
+1. Install  Python 3 - https://www.python.org/downloads/ (click "add python to path, and then restart)
+2. Make sure it is able to run from the command line and add the "pygame" library (if you didn't hit "add python to path" you have to add it and pip manually)
 	- pip install pygame
 3. Clone the program, extract it to a directory and run it
 	- python main.py
